@@ -43,7 +43,7 @@ export default function Home() {
           Welcome back, <span className="text-blue-600 dark:text-blue-400">{user?.fullName || "User"}</span>!
         </h1>
         <p className="text-gray-600 dark:text-gray-300 mb-8">
-          It's great to see you again. Let's get learning!
+          It is great to see you again. Let's get learning!
         </p>
         <button
           onClick={handleLogout}
