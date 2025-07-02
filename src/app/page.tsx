@@ -40,7 +40,7 @@ export default function Home() {
           />
         </div>
         <h1 className="text-3xl font-bold text-gray-800 dark:text-white mb-2">
-          Welcome back, <span className="text-blue-600 dark:text-blue-400">{user?.fullName || "User"}</span>!
+          Welcome DuongHung, <span className="text-blue-600 dark:text-blue-400">{user?.fullName || "User"}</span>!
         </h1>
         <p className="text-gray-600 dark:text-gray-300 mb-8">
           It is great to see you again. Let's get learning!
