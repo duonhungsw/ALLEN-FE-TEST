@@ -16,3 +16,5 @@ export const useActivateAccount = () => {
   });
 };
 // Usage example:
+
+// const { mutate: activateAccount } = useActivateAccount();
